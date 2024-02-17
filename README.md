@@ -1,2 +1,2 @@
 # InvestmentCalculator
-React
+Make Investment Calculator with React
